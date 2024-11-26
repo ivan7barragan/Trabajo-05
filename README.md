@@ -5,7 +5,7 @@ Sigue las instrucciones a continuación para clonar el repositorio, configurar e
 
 # Video explicativo.
 
-
+https://github.com/user-attachments/assets/2942c272-bd55-44f0-a2d8-0938dac57bb5
 
 ## Requisitos
 
